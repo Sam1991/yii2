@@ -703,7 +703,6 @@ Debajo hay una lista de todos los métodos de acceso a la base de datos:
 
 ## Aplicar Migraciones <span id="applying-migrations"></span>
 
-To upgrade a database to its latest structure, you should apply all available new migrations using the following command:
 Para actualizar una base de datos a su última estructura, deberías aplicar todas las nuevas migraciones utilizando el siguiente comando:
 
 ```
